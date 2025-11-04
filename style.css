@@ -7,3 +7,6 @@ h1 { font-family: Comic Sans MS; }
 h2 { color: red; }
 
 p { font-size: 8px; }
+
+nav { background: #333; padding: 10px; }
+nav a { color: white; text-decoration: none; }
